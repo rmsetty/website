@@ -4,8 +4,7 @@ longform:
   title: Notes
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Intro Pt. 2
+  scenes: []
   sceneTemplate: templates/Chapter 1.md
   ignoredFiles: []
 ---
