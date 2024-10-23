@@ -1,9 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my Second Brain
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get `started`.
+[[Pt. 1 - $100M Offers]]
+[[Pt. 1 - $100M Leads]]
 
 
 
