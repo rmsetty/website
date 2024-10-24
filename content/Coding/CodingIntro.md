@@ -2,8 +2,8 @@
 title: My Coding Journey
 ---
 
-[[Pt. 1 - $100M Offers]]
+[[Pt. 1 - WebDev]]
 
 
 
-[[Pt. 1 - $100M Leads]]
+[[Pt. 1 - WebDev]]
