@@ -1,0 +1,229 @@
+---
+title: "My Marketplace Journey"
+date: 2025-1-7
+author: "Rajiv"
+---
+
+Creating the Offer: [[Pt. 1_3 - Marketplace Offer]]
+
+Creating the Software/Product: [[Pt. 1 - Marketplace Product]]
+
+<!-- Second Part of the Journey -->
+<div class="tweet-container">
+    <div class="tweet-header">
+        <img src="https://pbs.twimg.com/profile_images/1525644036157186055/mo5i70w-_400x400.png" alt="User Profile">
+        <div class="user-info">
+            <div class="user-details">
+                <strong>Rajiv Mallisetty</strong>
+                <span>@r_msetty · Follow</span>
+            </div>
+            <div class="user-icons">
+                <a href="https://x.com/r_msetty/status/1863117210811502869" target="_blank">
+                    <img src="https://assets1.chainstoreage.com/2023-07/twitter-x-logo.png" alt="X Icon">
+                </a>
+                <a href="https://www.linkedin.com/feed/update/urn:li:share:7281459499129815040/" target="_blank">
+                    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon">
+                </a>
+                <a href="https://utdallas.startuptree.co/forum/2893/Religious-Marketplace-Idea---Intro" target="_blank">
+                    <img src="https://2459647.fs1.hubspotusercontent-na1.net/hubfs/2459647/1accbb9b-015c-4678-83f8-7b3d6e978465.png" alt="StartupTree Icon">
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="tweet-content">
+I’m also going to be creating a product and offer and try to apply what I learned from <a href="#">@AlexHormozi</a>’s $100M Offers book. I spent the past 2 days thinking about what I could offer, and will have an MVP idea by tomorrow.
+
+I was looking through a couple projects I’ve done before, and I’ve found a marketplace concept I thought of before in the past year.
+
+The overall concept is a marketplace where the local DFW Hindu community can book religious services for their homes, instead of having to manually call and use multiple 3rd party services to book an at-home service. <br></br>
+
+<a href="#">Why this is a good idea:</a>
+
+1. I have proper product-market fit as my family and lifestyle is based on and supported by the Hindu community here. <br>
+
+2. I have proper connections with these religious service providers called priests, and can have direct access to user/customer feedback.
+    </div>
+    <div class="tweet-footer">
+        <span>11:59 AM · Sep 4, 2024</span>
+        <a href="#">26 Likes</a>
+    </div>
+</div>
+
+</div>
+
+Creating the Offer: [[Pt. 1_3 - Marketplace Offer]]
+
+Creating the Software/Product: [[Pt. 1 - Marketplace Product]]
+
+<style>
+    body {
+        margin: 0;
+        padding: 20px;
+    }
+
+    .tweet-container {
+        max-width: 600px;
+        margin: 20px auto;
+        border: 1px solid #e1e8ed;
+        border-radius: 10px;
+        padding: 15px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .tweet-header {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .tweet-header img {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-right: 10px;
+    }
+    .user-icons a img {
+    width: 25px;
+    height: 25px;
+}
+
+    .user-info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+    }
+
+    .user-details {
+        font-size: 14px;
+    }
+
+    .user-details strong {
+        display: block;
+        font-weight: bold;
+    }
+
+    .user-details span {
+        color: #657786;
+    }
+
+    .user-icons {
+        display: flex;
+        gap: 8px;
+    }
+
+    .user-icons img {
+        width: 25px;
+        height: 25px;
+        cursor: pointer;
+    }
+
+    .user-icons img:hover {
+        opacity: 0.8;
+    }
+
+    .tweet-content {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+
+    .tweet-content a {
+        color: #1da1f2;
+        text-decoration: none;
+    }
+
+    .tweet-content a:hover {
+        text-decoration: underline;
+    }
+
+    .tweet-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 13px;
+        color: #657786;
+        margin-top: 10px;
+    }
+
+    .tweet-footer a {
+        color: #657786;
+        text-decoration: none;
+    }
+
+    .tweet-footer a:hover {
+        text-decoration: underline;
+    }
+
+    /* New Style for Image */
+    .tweet-content img {
+        display: block;
+        margin: 0 auto;
+        width: 200px;
+    }
+        .reel-container {
+        max-width: 600px;
+        margin: 20px auto;
+        border: 1px solid #e1e8ed;
+        border-radius: 10px;
+        padding: 15px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .reel-header {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .reel-header img {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-right: 10px;
+    }
+
+    .reel-info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+    }
+
+    .user-details {
+        font-size: 14px;
+    }
+
+    .user-details strong {
+        display: block;
+        font-weight: bold;
+    }
+
+    .user-details span {
+        color: #657786;
+    }
+
+    .reel-content iframe {
+        width: 100%;
+        height: 500px;
+        border: none;
+        margin-bottom: 10px;
+    }
+
+    .reel-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 13px;
+        color: #657786;
+        margin-top: 10px;
+    }
+
+    .reel-footer a {
+        color: #657786;
+        text-decoration: none;
+    }
+
+    .reel-footer a:hover {
+        text-decoration: underline;
+    }
+</style>
