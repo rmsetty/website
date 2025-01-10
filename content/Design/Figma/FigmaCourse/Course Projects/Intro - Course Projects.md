@@ -11,17 +11,6 @@ title: Intro - Course Projects
                 <strong>Rajiv Mallisetty</strong>
                 <span>@r_msetty · Follow</span>
             </div>
-            <div class="user-icons">
-                <a href="https://twitter.com/r_msetty" target="_blank">
-                    <img src="https://assets1.chainstoreage.com/2023-07/twitter-x-logo.png" alt="X Icon">
-                </a>
-                <a href="https://linkedin.com/in/rajiv-mallisetty" target="_blank">
-                    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon">
-                </a>
-                <a href="https://startuptree.co/" target="_blank">
-                    <img src="https://2459647.fs1.hubspotusercontent-na1.net/hubfs/2459647/1accbb9b-015c-4678-83f8-7b3d6e978465.png" alt="StartupTree Icon">
-                </a>
-            </div>
         </div>
     </div>
     <div class="tweet-content">
