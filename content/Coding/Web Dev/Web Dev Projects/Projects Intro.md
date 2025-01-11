@@ -18,7 +18,7 @@ title: Projects Intro
                 <a href="https://www.linkedin.com/posts/rajiv-m_%F0%9D%97%A7%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B8-%F0%9D%9F%AE-%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%BC-this-is-where-activity-7281474767474372608-8OAp?utm_source=share&utm_medium=member_desktop" target="_blank">
                     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon">
                 </a>
-                <a href="https://lnkd.in/evVYrnJZ" target="_blank">
+                <a href="https://utdallas.startuptree.co/forum/2898/Start-Up-Software-Development---Planning-my-Learning" target="_blank">
                     <img src="https://2459647.fs1.hubspotusercontent-na1.net/hubfs/2459647/1accbb9b-015c-4678-83f8-7b3d6e978465.png" alt="StartupTree Icon">
                 </a>
             </div>

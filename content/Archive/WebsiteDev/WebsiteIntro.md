@@ -39,6 +39,8 @@ Considering making a static website and placing all my notes/logs on there, as i
 
 Next Part: [[Pt. 1_2 - Website Dev]]
 
+ToDo: [[toDo]]
+
 <hr>
 
 <style>

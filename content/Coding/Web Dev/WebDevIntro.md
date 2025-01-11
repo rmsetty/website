@@ -12,14 +12,11 @@ title: My Web Dev Journey
                 <span>@r_msetty · Follow</span>
             </div>
             <div class="user-icons">
-                <a href="https://x.com/r_msetty/status/1859545117625110652" target="_blank">
+                <a href="https://x.com/r_msetty/status/1868728702638674392" target="_blank">
                     <img src="https://assets1.chainstoreage.com/2023-07/twitter-x-logo.png" alt="X Icon">
                 </a>
-                <a href="https://www.linkedin.com/feed/update/urn:li:activity:7279413208614854656/" target="_blank">
+                <a href="https://www.linkedin.com/posts/rajiv-m_%F0%9D%97%A6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%81-%F0%9D%97%A8%F0%9D%97%BD-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%B3%F0%9D%98%81%F0%9D%98%84%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%97%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2-activity-7281471631904931841-PfZv?utm_source=share&utm_medium=member_desktop" target="_blank">
                     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon">
-                </a>
-                <a href="https://utdallas.startuptree.co/forum/2847/Java-For-Business-%26-Startup-Use-Cases---Intro" target="_blank">
-                    <img src="https://2459647.fs1.hubspotusercontent-na1.net/hubfs/2459647/1accbb9b-015c-4678-83f8-7b3d6e978465.png" alt="StartupTree Icon">
                 </a>
             </div>
         </div>
