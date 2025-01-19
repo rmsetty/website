@@ -21,9 +21,9 @@ the other taught me how to market
     <div class="tweet-content">
 2 of Hormozi's Books I'm Reading:<br>
 
-1. $100M Offers: [[Intro - $100M Offers]]<br>
+1. 100M Offers: [[Intro - $100M Offers]]<br>
 
-2. $100M Leads: [[Intro - $100M Leads]]<br>
+2. 100M Leads: [[Intro - $100M Leads]]<br>
 
 Learning the frameworks in these 2 should make me well-versed in basic product creation & marketing
 </div>
